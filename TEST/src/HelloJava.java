@@ -1,4 +1,4 @@
-//2019314704 ¹Ú¼ö¿¬
+//2019314704 Park Suyeon
 public class HelloJava {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
